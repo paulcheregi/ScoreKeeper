@@ -4,7 +4,7 @@ This is a simple web app that keeps the score of a ping pong match. You can choo
 
 ## Used
 
-I used Bootstrap 5 Framework for styling.
+I used Bulma Framework for styling.
 
 ## Download
 
